@@ -1,6 +1,12 @@
 <h1 align="center">Hi there, I'm Nikita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+<p align="center">
+  <a href="https://github.com/kzzxc/kzzxc">
+    <img src="https://readme-typing-svg.demolab.com/?lines=I+love+Peter+Griffin+and+Unity&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+</p>
+
+
 
 
 ### My stack
