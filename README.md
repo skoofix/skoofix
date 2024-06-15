@@ -1,7 +1,8 @@
-<h1 align="center">Hi there, I'm Nikita</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<div align="center">
+<br/>
+<img src="https://github.com/skoofix/skoofix/blob/main/puuudge.gif" alt="Here is a little bit about me!">
 
-
+<br />
 
 ### My stack
 
