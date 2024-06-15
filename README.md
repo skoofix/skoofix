@@ -1,6 +1,6 @@
 <div align="center">
 <br/>
-<img src="https://github.com/skoofix/skoofix/blob/main/puuudge.gif" alt="Here is a little bit about me!">
+<img src="https://github.com/skoofix/skoofix/blob/main/pudgetri.gif" alt="Here is a little bit about me!">
 
 <br />
 
